@@ -341,7 +341,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationB
             case R.style.AppThemeNight:
                 return R.color.fdroid_night;
             default:
-                return R.color.fdroid_blue;
+                return R.color.jembi_green;
         }
     }
 
