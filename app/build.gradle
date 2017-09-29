@@ -260,6 +260,12 @@ android {
         exclude 'META-INF/INDEX.LIST'
         exclude '.readme'
     }
+
+    productFlavors {
+        jembi {
+            applicationId "org.jembi.appstore"
+        }
+    }
 }
 
 checkstyle {
