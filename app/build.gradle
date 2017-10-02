@@ -263,7 +263,7 @@ android {
 
     productFlavors {
         jembi {
-            applicationId "org.jembi.appstore"
+            applicationId "org.fdroid.fdroid"
         }
     }
 }

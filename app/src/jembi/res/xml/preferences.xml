@@ -4,7 +4,7 @@
             <intent
                 android:action="android.intent.action.MAIN"
                 android:targetPackage="org.fdroid.fdroid"
-                android:targetClass="AboutActivity" />
+                android:targetClass="org.fdroid.fdroid.AboutActivity" />
         </PreferenceScreen>
     <PreferenceCategory android:title="@string/preference_category__my_apps">
         <PreferenceScreen android:title="@string/preference_manage_installed_apps">
