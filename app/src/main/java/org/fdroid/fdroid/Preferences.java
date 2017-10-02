@@ -234,7 +234,8 @@ public final class Preferences implements SharedPreferences.OnSharedPreferenceCh
     }
 
     private String getDefaultLocalRepoName() {
-        return "RAD F-DROID Repo";
+        return (Build.BRAND + " " + Build.MODEL + new Random().nextInt(9999))
+                .replaceAll(" ", "-");
     }
 
     public String getLanguage() {
