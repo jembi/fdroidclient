@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="default_repos">
+
+        <!-- name -->
+        <item>Jembi RAD Repository</item>
+        <!-- address -->
+        <item>http://95.85.3.24/repo</item>
+        <!-- description -->
+        <item>The official Jembi repository. Applications in this repository are mostly built
+            directory from the source code.
+        </item>
+        <!-- version -->
+        <item>1</item>
+        <!-- enabled -->
+        <item>1</item>
+        <!-- priority -->
+        <item>1</item>
+        <!-- push requests -->
+        <item>ignore</item>
+        <!-- pubkey -->
+        <item>
+            MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuEMMwxbyAXTQMBw8AVirbpmIiXksD6aJTLZqTJWeWodllw7HTf5En28gU79n+k9Wm4zRpojXdN+QrR+OSHC0I+wRXzuv5DxmmzNFyGiU9ZdcLXbo/UKPxAhx1AnHR/2kWTARHXhTP9g0ey9qgqDXzjQbCtmQJLuV+WeHENrUljfWW1AXToMExhF3B+7QuqzP3wGKJJQ2sqe10BXLeY/7tPGCeWgUMU7IRArMOfzMnjvfNbY71lKvoKAIncFtqU+K2fRK9MJbWJmmx9NG9OwzgGOT6Mf7aW7mWAxhxCLubqC9NZRGmt6pKeCNj8IJy4AndIhs/xZ78EFTl75JpEGMWwYcBZm8RWRESP/8hdzDxsJL2OgtnnDMCzeBzP8zeotKXas1OuJQFkU2K0CGnwdHua8Z+F2rMb32TQi/rOWqlkk74AlAghCAveFKf/65JAuiWED6TRDItwkIs2qCnBw1xBpcchnXG4hO1umqQo1CEz8jbMLXrbqlCu2zoKO1GWwidKTyx986sxufSOPBFrAz2ptxMzzxzvh4GTeHzO9xg7PK2t9YcW1UIHq89Z4wBmTuAHsHAJVp/wXDk5XvdJRrh4RpfpM84nYkh08Ut59FEFTQZOHRktiBHph1flOk4nnbDZKTbieySWEvxkv/GunrkT27seHrvO53BIOHZkRKT8MCAwEAAQ==
+        </item>
+
+    </string-array>
+
+</resources>
